@@ -15,5 +15,6 @@ First, make sure you have Node.js and npm (Node.js package manager) installed on
 
 Run the JavaScript File:
 After installing the dependencies, you can run the desired JavaScript file. For example, if your file is named Anagrams.js, enter the following command:
- 
+
+ ```bash
    node Anagrams.js
